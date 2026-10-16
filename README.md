@@ -8,6 +8,14 @@ Ghost Coder News Bot собирает материалы из RSS/Atom и дос
 
 **Версия:** `0.9.0-rc1` · **Статус:** Release Candidate — перед рабочим запуском необходимы интеграционные проверки.
 
+<img width="972" height="394" alt="Снимок экрана — 2026-10-15 в 18 03 51" src="https://github.com/user-attachments/assets/c04b1f7a-7246-408f-9d29-19586e7fef9b" />
+<img width="1264" height="352" alt="Снимок экрана — 2026-10-15 в 18 04 03" src="https://github.com/user-attachments/assets/a8299846-6cc1-44d3-aa9a-d0e62040c266" />
+<img width="1266" height="512" alt="Снимок экрана — 2026-10-15 в 18 04 16" src="https://github.com/user-attachments/assets/e11c2449-fd04-425b-a78d-d1978629f6c9" />
+<img width="1262" height="366" alt="Снимок экрана — 2026-10-15 в 18 04 31" src="https://github.com/user-attachments/assets/94450b39-20f6-47a2-873a-5baa5c08749e" />
+<img width="864" height="908" alt="Снимок экрана — 2026-10-15 в 18 04 40" src="https://github.com/user-attachments/assets/ef47b984-0763-4129-a2eb-13d436655fa5" />
+
+
+
 ## Возможности
 
 - Несколько Telegram-каналов с отдельными настройками.
